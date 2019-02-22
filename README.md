@@ -8,3 +8,8 @@
 
 
 see: https://stackoverflow.com/a/54521677
+
+
+
+Monkey runner needs java and also the android sdk:
+https://dl.google.com/dl/android/studio/ide-zips/3.3.1.0/android-studio-ide-182.5264788-linux.zip
